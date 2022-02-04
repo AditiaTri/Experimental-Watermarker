@@ -8,9 +8,9 @@ Aditia Trihadian
 ![image](https://user-images.githubusercontent.com/50290253/152464986-85fa1d9b-121f-4e21-bc54-7f1c8b35c6ab.png)
 
 ## Environment
-- Python    3.9.7 
-- PySide6   6.2.2.1
-- Pillow    8.3.2
+- Python:    3.9.7 
+- PySide6:   6.2.2.1
+- Pillow:    8.3.2
 
 ## Usage
 Run the app with Python:
