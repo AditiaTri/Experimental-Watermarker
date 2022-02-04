@@ -1,6 +1,9 @@
 # Experimental-Watermarker
 Multi-platform desktop application to generate watermarked images in batches using Python and PySide (QT)
 
+## Author
+Aditia Trihadian
+
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/50290253/152464986-85fa1d9b-121f-4e21-bc54-7f1c8b35c6ab.png)
 
